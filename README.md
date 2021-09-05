@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rdevpro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning backend development
+- 🌱 I’m working a fullstack development
